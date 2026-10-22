@@ -1,0 +1,17 @@
+[
+ {
+  "task": "banking77",
+  "n": 3080,
+  "sha256": "f912243643fbf90fb833a2e4328c6310eb11a513d81e8354b29b7822548b6895"
+ },
+ {
+  "task": "tw_topic",
+  "n": 4117,
+  "sha256": "68b8bf32d30457c0e0506b81fdb6ecbd2bd45d7a6956012c42902a0ed1d58c62"
+ },
+ {
+  "task": "cfpb",
+  "n": 9000,
+  "sha256": "e48ae6f0dee953762aeeff4eac5601c3b14aaf24b097af09484e1acec74d8011"
+ }
+]
